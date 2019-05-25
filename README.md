@@ -21,8 +21,7 @@ There are two options for now.
 ## Running the application all-in-one
 The easiest option is changing to the `backend` folder and running
 `./gradlew bootRun`. 
-The application will be accessible at [localhost (port 8080)]
-(http://localhost:8080).
+The application will be accessible at [localhost (port 8080)](http://localhost:8080).
  
 There is also the possibility of a quicker build (which doesn't run frontend 
 tests, linting and doesn't generate a frontend production build) by running 
