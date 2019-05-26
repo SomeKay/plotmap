@@ -13,6 +13,12 @@ Plotmap supports (or plans to support) the following features:
 - Users
   - Creating and managing accounts
   - Different user roles
+  
+## What is used for book data?
+
+Google Books is used for now.
+Please set an environment variable called `GOOGLE_API_KEY` with your Google 
+API key to successfully request data.
 
 
 # Running the application

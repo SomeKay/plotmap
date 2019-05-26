@@ -1,6 +1,9 @@
 pluginManagement {
 	repositories {
+		mavenCentral()
 		gradlePluginPortal()
 	}
 }
 rootProject.name = 'plotmap'
+
+include 'web'

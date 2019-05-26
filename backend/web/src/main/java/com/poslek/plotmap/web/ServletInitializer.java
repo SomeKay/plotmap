@@ -1,4 +1,4 @@
-package com.poslek.plotmap;
+package com.poslek.plotmap.web;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

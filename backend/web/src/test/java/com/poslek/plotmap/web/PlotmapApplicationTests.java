@@ -1,4 +1,4 @@
-package com.poslek.plotmap;
+package com.poslek.plotmap.web;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
